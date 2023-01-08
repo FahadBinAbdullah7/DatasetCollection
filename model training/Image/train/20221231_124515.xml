@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20221231_124515.jpg</filename>
+	<path>C:\Users\Tanvir\Downloads\Image\train\20221231_124515.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>perfume</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>949</xmin>
+			<ymin>732</ymin>
+			<xmax>1945</xmax>
+			<ymax>2654</ymax>
+		</bndbox>
+	</object>
+</annotation>

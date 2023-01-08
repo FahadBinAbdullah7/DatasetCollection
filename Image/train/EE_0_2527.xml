@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Image</folder>
+	<filename>EE_0_2527.jpeg</filename>
+	<path>C:\Users\Tanvir\Downloads\Image\EE_0_2527.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>calculator</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>668</xmin>
+			<ymin>638</ymin>
+			<xmax>4000</xmax>
+			<ymax>2958</ymax>
+		</bndbox>
+	</object>
+</annotation>

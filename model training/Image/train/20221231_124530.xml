@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20221231_124530.jpg</filename>
+	<path>C:\Users\Tanvir\Downloads\Image\train\20221231_124530.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>doraemon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>754</xmin>
+			<ymin>1006</ymin>
+			<xmax>2041</xmax>
+			<ymax>2776</ymax>
+		</bndbox>
+	</object>
+</annotation>

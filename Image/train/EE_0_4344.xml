@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Image</folder>
+	<filename>EE_0_4344.jpeg</filename>
+	<path>C:\Users\Tanvir\Downloads\Image\EE_0_4344.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>perfume</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1868</xmin>
+			<ymin>672</ymin>
+			<xmax>3378</xmax>
+			<ymax>1458</ymax>
+		</bndbox>
+	</object>
+</annotation>

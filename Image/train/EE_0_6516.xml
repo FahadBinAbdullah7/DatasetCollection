@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Image</folder>
+	<filename>EE_0_6516.jpeg</filename>
+	<path>C:\Users\Tanvir\Downloads\Image\EE_0_6516.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pencil</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>938</ymin>
+			<xmax>3288</xmax>
+			<ymax>1721</ymax>
+		</bndbox>
+	</object>
+</annotation>
